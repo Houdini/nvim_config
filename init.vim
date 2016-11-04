@@ -20,6 +20,7 @@ Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 " Using a non-master branch
 Plug 'rdnetto/YCM-Generator', { 'branch': 'stable' }
 Plug 'https://github.com/vim-ruby/vim-ruby.git'
+Plug 'elixir-lang/vim-elixir'
 
 " Using a tagged release; wildcard allowed (requires git 1.9.2 or above)
 " Plug 'fatih/vim-go', { 'tag': '*' }
